@@ -1,8 +1,8 @@
 # 📊 Gerador de Tabela de Distribuição de Frequências
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Estatística](https://img.shields.io/badge/Statistics-Fundamental-orange?style=for-the-badge)
-![Estrutura de Dados](https://img.shields.io/badge/Data%20Structure-Algorithms-green?style=for-the-badge)
+![Estatística](https://img.shields.io/badge/Estatística-Fundamental-orange?style=for-the-badge)
+![Estrutura de Dados](https://img.shields.io/badge/Estrutura%20de%20Dados-Algoritmos-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
 > Um algoritmo robusto desenvolvido em **Python Puro**  para organizar dados brutos em tabelas estatísticas detalhadas, sem a dependência de bibliotecas externas como Pandas ou NumPy.
