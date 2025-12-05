@@ -1,8 +1,8 @@
 # 📊 Gerador de Tabela de Distribuição de Frequências
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-Fundamental-orange?style=for-the-badge)
-![Data Structure](https://img.shields.io/badge/Data%20Structure-Algorithms-green?style=for-the-badge)
+![Estatística](https://img.shields.io/badge/Statistics-Fundamental-orange?style=for-the-badge)
+![Estrutura de Dados](https://img.shields.io/badge/Data%20Structure-Algorithms-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
 > Um algoritmo robusto desenvolvido em **Python Puro**  para organizar dados brutos em tabelas estatísticas detalhadas, sem a dependência de bibliotecas externas como Pandas ou NumPy.
@@ -15,7 +15,6 @@ Em um mundo dominado por bibliotecas prontas, **entender o que acontece "por bai
 
 O código resolve problemas de **arredondamento de classes**, **intervalos abertos/fechados** e **formatação visual** dinâmica no terminal.
 
----
 
 ## 🚀 Funcionalidades e Estrutura
 
@@ -41,7 +40,6 @@ Aqui brilha a **formatação condicional** implementada.
     - `|--|` : Indica que o intervalo fechou exatamente no limite (ex: $Max=100$, Limite=100).
     - `|-  ` : Indica que o intervalo permaneceu aberto visualmente pois o valor máximo não tocou o limite (ex: $Max=97$, Limite=100).
 
----
 
 ## 🛠️ Tecnologias e Habilidades Desenvolvidas
 
@@ -53,7 +51,6 @@ Durante a construção deste algoritmo, foram aprimoradas as seguintes competên
 * 🎨 **UX no Terminal:** Formatação de strings para criar tabelas visualmente alinhadas e legíveis.
 * 🚫 **Constraint Programming:** Resolver o problema sem usar `import pandas`.
 
----
 
 ## 💻 Como Executar
 
@@ -61,13 +58,11 @@ Certifique-se de ter o **Python 3** instalado.
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/frequencia-estatistica.git](https://github.com/seu-usuario/frequencia-estatistica.git)
-   ```
+    git clone https://github.com/israelbritodev/tabela-distribuicao-frequencias-python.git
+    ```
 
 2. Execute o arquivo:
-
 ```bash
-
 python frequencia_estatistica.py
 ``` 
 3. Insira os dados quando solicitado:
@@ -75,7 +70,6 @@ python frequencia_estatistica.py
 Digite os valores: 50 51 52 59 60 70 80 97
 Digite o k (classes): 5
 ```
----
 
 ## 📈 Resultados Obtidos
 
@@ -99,12 +93,6 @@ Total                                50                   100.00%
 
 
 🤝 Autores
-<table> <tr> <td align="center"> <a href="#"> <img src="https://www.google.com/search?q=https://ui-avatars.com/api/%3Fname%3DIsrael%2BBrito%26background%3D0D8ABC%26color%3Dfff" width="100px;" alt=""/>
-
-
-<sub><b>Israel Brito</b></sub> </a> </td> <td align="center"> <a href="#"> <img src="https://www.google.com/search?q=https://ui-avatars.com/api/%3Fname%3DHigor%2BGomes%26background%3D0D8ABC%26color%3Dfff" width="100px;" alt=""/>
-
-
-<sub><b>Higor Gomes</b></sub> </a> </td> </tr> </table>
+Israel Brito e Higor Gomes
 
 <p align="center"> Feito com 💙 e muito ☕ em Python </p>
