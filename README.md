@@ -57,9 +57,9 @@ Durante a construção deste algoritmo, foram aprimoradas as seguintes competên
 Certifique-se de ter o **Python 3** instalado.
 
 1. Clone o repositório:
-   ```bash
-    git clone https://github.com/israelbritodev/tabela-distribuicao-frequencias-python.git
-    ```
+```bash
+git clone https://github.com/israelbritodev/tabela-distribuicao-frequencias-python.git
+```
 
 2. Execute o arquivo:
 ```bash
